@@ -8,6 +8,13 @@ public:
         this->valor = valor;
         this->next = NULL;
     }
+    void asignar_valor(int nuevo_valor){
+        valor = nuevo_valor;
+        std::cout<<"Valor modificado correctamente" << std::endl;
+    }
+    void obtener_valor(){
+        std::cout<<"EL valor almacenado es: " << valor <<std::endl;
+    }
 
 };
 
@@ -31,6 +38,13 @@ public:
             this->insertar_inicio(inicio, valor);
         }
     }
+    void asignar_valor_cabeza(int nuevo_valor){
+        inicio->valor = nuevo_valor;
+        std::cout<<"Valor de cabeza modificado correctamente" << std::endl;
+    }
+    void obtener_valor_cabeza(){
+        std::cout<<"EL valor almacenado al inicio es: " << inicio->valor <<std::endl;
+    }
 
 };
 
@@ -39,6 +53,10 @@ int main() {
     List *list  = new List();
     list->insertar_nuevo(8);
     list->insertar_nuevo(9);
+    list->obtener_valor_cabeza();
+    list->asignar_valor_cabeza(10);
+    list->obtener_valor_cabeza();
+
 
     return 0;
 }
