@@ -1,5 +1,13 @@
 # ninja log v5
-324	390	1678129304825570339	TareaExtraclase	da80990143068bf5
-0	324	1678129304761570336	CMakeFiles/TareaExtraclase.dir/main.cpp.o	af058845ee0ffa35
-0	326	1678133615732036437	CMakeFiles/TareaExtraclase.dir/main.cpp.o	35fa77ded2af0ac6
 326	394	1678133615800036440	TareaExtraclase	da80990143068bf5
+2	313	1678148624184584337	CMakeFiles/TareaExtraclase.dir/Node.cpp.o	a2308f2876bc93b5
+0	299	1678149001760598121	CMakeFiles/TareaExtraclase.dir/main.cpp.o	35fa77ded2af0ac6
+0	39	1678150815824664346	build.ninja	4fa8c8cf20d8f716
+1	340	1678150816172664358	CMakeFiles/TareaExtraclase.dir/main.cpp.o	35fa77ded2af0ac6
+340	415	1678150816244664361	TareaExtraclase	da80990143068bf5
+1	515	1678151344984683663	CMakeFiles/TareaExtraclase.dir/main.cpp.o	35fa77ded2af0ac6
+515	615	1678151345096683667	TareaExtraclase	da80990143068bf5
+1	434	1678151379576684926	CMakeFiles/TareaExtraclase.dir/main.cpp.o	35fa77ded2af0ac6
+434	504	1678151379648684929	TareaExtraclase	da80990143068bf5
+1	426	1678208442789604505	CMakeFiles/TareaExtraclase.dir/main.cpp.o	35fa77ded2af0ac6
+426	512	1678208442869604508	TareaExtraclase	da80990143068bf5
