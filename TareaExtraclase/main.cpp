@@ -15,7 +15,6 @@ public:
         return valor;
     }
 };
-
 class Collector{
 
 private:
@@ -76,7 +75,6 @@ public:
         mostrar_collector_private(inicio);
     }
 };
-
 Collector *collector = new Collector;
 class Node{
 
@@ -109,13 +107,12 @@ public:
         }
         else {
             void * p = reinterpret_cast<void *>(collector->obtener_valor());
-            std::cout<<"El puntero obtenido de collector es " << p <<std::endl;
+            std::cout<<"El nodo creado con el puntero obtenido de collector tiene la direccion " << p <<std::endl;
             return p;
         }
     }
     void operator delete(void * p)
     {
-        std::cout<< "Overloading delete operator " << std::endl;
         std::cout<<"El puntero que se va a eliminar es" << p <<std::endl;
         collector->insertar_collector(p);
         free(p);
@@ -140,14 +137,14 @@ private:
             aux_eliminar = cabeza;
 
             cabeza = cabeza->next;
-            std::cout<<"Valor a eliminar encontrado" << std::endl;
+            std::cout<<"Valor eliminado" << std::endl;
             delete(aux_eliminar);
 
 
         }
     }
     void mostrar_lista_private(Node *cabeza){
-        Node *actual = new Node();
+        Node *actual;
         actual = cabeza;
         std::cout<<"List actual es: " << std::endl;
         while(actual != NULL){
