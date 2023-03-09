@@ -189,9 +189,9 @@ int main() {
     l->obtener_valor_cabeza();
     l->mostrar_lista();
     l->eliminar_nodo();
+    l->eliminar_nodo();
     collector->mostrar_collector();
     l->insertar_nuevo(8);
-    l->mostrar_lista();
     collector->mostrar_collector();
 
     return 0;
