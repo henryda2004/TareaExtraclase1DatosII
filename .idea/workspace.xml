@@ -20,117 +20,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b11d0053-9a0d-454c-9a66-d77da8502ee6" name="Changes" comment="documentacion">
-      <change afterPath="$PROJECT_DIR$/Doxyfile.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/annotated.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/bc_s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/bdwn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/classCollector-members.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/classCollector.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/classCollector__coll__graph.dot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/classList-members.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/classList.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/classList__coll__graph.dot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/classNode-members.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/classNode.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/classNodeC-members.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/classNodeC.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/classNodeC__coll__graph.dot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/classNode__coll__graph.dot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/closed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/dir_3d3d5423d25f76032b7ee2d0f92498e8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/doc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/doxygen.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/doxygen.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/dynsections.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/files.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/folderclosed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/folderopen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/functions.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/functions_func.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/functions_vars.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/globals.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/globals_func.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/globals_vars.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/graph_legend.dot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/graph_legend.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/main_8cpp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/main_8cpp__incl.dot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/menu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/menudata.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/nav_f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/nav_g.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/nav_h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/open.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/all_0.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/all_0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/all_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/all_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/all_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/all_2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/all_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/all_3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/all_4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/all_4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/all_5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/all_5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/all_6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/all_6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/all_7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/all_7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/all_8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/all_8.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/classes_0.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/classes_0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/classes_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/classes_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/classes_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/classes_2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/close.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/files_0.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/files_0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/functions_0.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/functions_0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/functions_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/functions_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/functions_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/functions_2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/functions_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/functions_3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/functions_4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/functions_4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/functions_5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/functions_5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/functions_6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/functions_6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/mag_sel.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/nomatches.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/search.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/search_l.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/search_m.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/search_r.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/searchdata.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/variables_0.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/variables_0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/variables_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/variables_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/variables_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/variables_2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/variables_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/search/variables_3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/splitbar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/sync_off.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/sync_on.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/tab_a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/tab_b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/tab_h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/tab_s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/tabs.css" afterDir="false" />
-    </list>
+    <list default="true" id="b11d0053-9a0d-454c-9a66-d77da8502ee6" name="Changes" comment="documentacion" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -204,7 +94,7 @@
       <updated>1678341882670</updated>
       <workItem from="1678341883779" duration="1305000" />
       <workItem from="1678409433096" duration="3330000" />
-      <workItem from="1678417537875" duration="11717000" />
+      <workItem from="1678417537875" duration="12523000" />
     </task>
     <task id="LOCAL-00001" summary="documentacion">
       <created>1678430272499</created>
@@ -225,6 +115,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
