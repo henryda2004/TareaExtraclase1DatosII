@@ -1,3 +1,3 @@
-/home/henry/CLionProjects/TareaExtraclase1DatosII/TareaExtraclase/cmake-build-debug/CMakeFiles/TareaExtraclase.dir
-/home/henry/CLionProjects/TareaExtraclase1DatosII/TareaExtraclase/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/henry/CLionProjects/TareaExtraclase1DatosII/TareaExtraclase/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/mrr/TareaExtraclase1DatosII/TareaExtraclase/cmake-build-debug/CMakeFiles/TareaExtraclase.dir
+/home/mrr/TareaExtraclase1DatosII/TareaExtraclase/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mrr/TareaExtraclase1DatosII/TareaExtraclase/cmake-build-debug/CMakeFiles/rebuild_cache.dir

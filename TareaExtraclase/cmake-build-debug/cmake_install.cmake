@@ -1,4 +1,4 @@
-# Install script for directory: /home/henry/CLionProjects/TareaExtraclase1DatosII/TareaExtraclase
+# Install script for directory: /home/mrr/TareaExtraclase1DatosII/TareaExtraclase
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/henry/CLionProjects/TareaExtraclase1DatosII/TareaExtraclase/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/mrr/TareaExtraclase1DatosII/TareaExtraclase/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
